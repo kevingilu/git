@@ -4,5 +4,7 @@ for i in range(3):
     print(i)
 n=input("ingrese su nombre : ")
 def saludar(nombre):
-    return "hola "+nombre
+    return "hola ,como esta tu dia"+nombre
 print(saludar(n))
+array=array+1
+print(array)
